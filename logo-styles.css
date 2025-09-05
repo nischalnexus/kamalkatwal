@@ -1,0 +1,45 @@
+/* Custom Logo Styling - Add this to your main CSS file for consistent logo sizes */
+
+/* Header Logo Styling */
+.site_logo img {
+    width: 330px !important;
+    height: auto !important;
+    max-width: 100% !important;
+}
+
+/* Footer Logo Styling - Slightly smaller for better balance */
+.site_footer .site_logo img {
+    width: 300px !important;
+    height: auto !important;
+    max-width: 100% !important;
+}
+
+/* Responsive Logo Sizing */
+@media (max-width: 768px) {
+    .site_logo img {
+        width: 250px !important;
+    }
+    
+    .site_footer .site_logo img {
+        width: 220px !important;
+    }
+}
+
+@media (max-width: 480px) {
+    .site_logo img {
+        width: 200px !important;
+    }
+    
+    .site_footer .site_logo img {
+        width: 180px !important;
+    }
+}
+
+/* Smooth transitions for better UX */
+.site_logo img {
+    transition: all 0.3s ease;
+}
+
+.site_logo:hover img {
+    transform: scale(1.05);
+}

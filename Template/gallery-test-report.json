@@ -1,0 +1,981 @@
+{
+  "timestamp": "2025-09-05T06:29:11.772Z",
+  "totalImages": 69,
+  "loadedImages": 69,
+  "brokenImages": [],
+  "imgDetails": [
+    {
+      "index": 1,
+      "src": "assets/kamal image/538852294_10239805834633944_2781142139430788121_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 11,
+      "dimensions": {
+        "naturalWidth": 2048,
+        "naturalHeight": 1364,
+        "displayWidth": 402,
+        "displayHeight": 267
+      }
+    },
+    {
+      "index": 2,
+      "src": "assets/kamal image/516806804_10239087820284034_1414911263941964588_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 12,
+      "dimensions": {
+        "naturalWidth": 2048,
+        "naturalHeight": 1536,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 3,
+      "src": "assets/kamal image/78951926_2564640856984790_2377767012588847104_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 13,
+      "dimensions": {
+        "naturalWidth": 2048,
+        "naturalHeight": 1152,
+        "displayWidth": 402,
+        "displayHeight": 226
+      }
+    },
+    {
+      "index": 4,
+      "src": "assets/kamal image/89537031_10221883356223185_1155821565309353984_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 2048,
+        "naturalHeight": 1536,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 5,
+      "src": "assets/kamal image/87384984_10221883369903527_8364164881556963328_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 2048,
+        "naturalHeight": 1536,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 6,
+      "src": "assets/kamal image/516931355_10239072510461298_719400927611352576_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 2048,
+        "naturalHeight": 1536,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 7,
+      "src": "assets/kamal image/67373183_1070844316445730_810493163780177920_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 1944,
+        "naturalHeight": 1296,
+        "displayWidth": 402,
+        "displayHeight": 268
+      }
+    },
+    {
+      "index": 8,
+      "src": "assets/kamal image/518149271_10239119763562596_5240434602545726694_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 9,
+      "dimensions": {
+        "naturalWidth": 1920,
+        "naturalHeight": 1080,
+        "displayWidth": 402,
+        "displayHeight": 226
+      }
+    },
+    {
+      "index": 9,
+      "src": "assets/kamal image/517605675_10239103416873939_7454672755258429351_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 13,
+      "dimensions": {
+        "naturalWidth": 1440,
+        "naturalHeight": 1080,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 10,
+      "src": "assets/kamal image/517659087_10238895922726715_95474295304439154_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 16,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 720,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 11,
+      "src": "assets/kamal image/57272068_10218984664597706_8573961350928138240_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 19,
+      "dimensions": {
+        "naturalWidth": 958,
+        "naturalHeight": 960,
+        "displayWidth": 402,
+        "displayHeight": 402
+      }
+    },
+    {
+      "index": 12,
+      "src": "assets/kamal image/96292353_10222773968887945_7286299618369863680_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 4,
+      "dimensions": {
+        "naturalWidth": 945,
+        "naturalHeight": 625,
+        "displayWidth": 402,
+        "displayHeight": 266
+      }
+    },
+    {
+      "index": 13,
+      "src": "assets/kamal image/35511054_10216653141071075_2133359669521940480_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 1363,
+        "naturalHeight": 1675,
+        "displayWidth": 402,
+        "displayHeight": 494
+      }
+    },
+    {
+      "index": 14,
+      "src": "assets/kamal image/95095458_10222557626279515_1732138217165029376_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 837,
+        "naturalHeight": 624,
+        "displayWidth": 402,
+        "displayHeight": 299
+      }
+    },
+    {
+      "index": 15,
+      "src": "assets/kamal image/517687195_10239015245629713_7030442303606911360_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 959,
+        "naturalHeight": 959,
+        "displayWidth": 402,
+        "displayHeight": 402
+      }
+    },
+    {
+      "index": 16,
+      "src": "assets/kamal image/91982322_10222293808964247_8974452323837280256_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 12,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 946,
+        "displayWidth": 402,
+        "displayHeight": 396
+      }
+    },
+    {
+      "index": 17,
+      "src": "assets/kamal image/IMG-20250905-WA0025.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 640,
+        "displayWidth": 402,
+        "displayHeight": 268
+      }
+    },
+    {
+      "index": 18,
+      "src": "assets/kamal image/IMG-20250905-WA0001.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 720,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 19,
+      "src": "assets/kamal image/IMG-20250905-WA0026.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 720,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 20,
+      "src": "assets/kamal image/IMG-20250905-WA0027.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 640,
+        "naturalHeight": 1280,
+        "displayWidth": 402,
+        "displayHeight": 803
+      }
+    },
+    {
+      "index": 21,
+      "src": "assets/kamal image/IMG-20250905-WA0004.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 838,
+        "naturalHeight": 471,
+        "displayWidth": 402,
+        "displayHeight": 226
+      }
+    },
+    {
+      "index": 22,
+      "src": "assets/kamal image/IMG-20250905-WA0028.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 1505,
+        "naturalHeight": 1512,
+        "displayWidth": 402,
+        "displayHeight": 403
+      }
+    },
+    {
+      "index": 23,
+      "src": "assets/kamal image/IMG-20250905-WA0006.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 6,
+      "dimensions": {
+        "naturalWidth": 1600,
+        "naturalHeight": 1200,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 24,
+      "src": "assets/kamal image/IMG-20250905-WA0007.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 720,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 25,
+      "src": "assets/kamal image/505605017_10238116185553773_6995723473560945306_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 871,
+        "naturalHeight": 490,
+        "displayWidth": 402,
+        "displayHeight": 226
+      }
+    },
+    {
+      "index": 26,
+      "src": "assets/kamal image/80860954_1495809497262548_5614782476586057728_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 6,
+      "dimensions": {
+        "naturalWidth": 1080,
+        "naturalHeight": 810,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 27,
+      "src": "assets/kamal image/498709576_10237756444720477_9087926042220004923_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 1080,
+        "naturalHeight": 1082,
+        "displayWidth": 402,
+        "displayHeight": 402
+      }
+    },
+    {
+      "index": 28,
+      "src": "assets/kamal image/84331659_10221565195069355_830098289327079424_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 6,
+      "dimensions": {
+        "naturalWidth": 1024,
+        "naturalHeight": 485,
+        "displayWidth": 402,
+        "displayHeight": 190
+      }
+    },
+    {
+      "index": 29,
+      "src": "assets/kamal image/78805095_10220900831300676_4464204434984927232_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 4,
+      "dimensions": {
+        "naturalWidth": 1351,
+        "naturalHeight": 640,
+        "displayWidth": 402,
+        "displayHeight": 190
+      }
+    },
+    {
+      "index": 30,
+      "src": "assets/kamal image/104364588_3619939941355788_4283263855850790001_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 940,
+        "naturalHeight": 788,
+        "displayWidth": 402,
+        "displayHeight": 337
+      }
+    },
+    {
+      "index": 31,
+      "src": "assets/kamal image/59523658_10219105282493078_4930344554244079616_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 5,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 874,
+        "displayWidth": 402,
+        "displayHeight": 366
+      }
+    },
+    {
+      "index": 32,
+      "src": "assets/kamal image/78481522_10220900833500731_1089678957281804288_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 9,
+      "dimensions": {
+        "naturalWidth": 1351,
+        "naturalHeight": 640,
+        "displayWidth": 402,
+        "displayHeight": 190
+      }
+    },
+    {
+      "index": 33,
+      "src": "assets/kamal image/83027127_10157964363702250_6521756187975745536_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 720,
+        "naturalHeight": 960,
+        "displayWidth": 402,
+        "displayHeight": 535
+      }
+    },
+    {
+      "index": 34,
+      "src": "assets/kamal image/48929060_10218164628337312_782352507992014848_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 12,
+      "dimensions": {
+        "naturalWidth": 720,
+        "naturalHeight": 960,
+        "displayWidth": 402,
+        "displayHeight": 535
+      }
+    },
+    {
+      "index": 35,
+      "src": "assets/kamal image/92827324_10222320234184861_8089705897133080576_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 10,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 960,
+        "displayWidth": 402,
+        "displayHeight": 402
+      }
+    },
+    {
+      "index": 36,
+      "src": "assets/kamal image/49375929_10218158232857429_5606553787398356992_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 1352,
+        "naturalHeight": 640,
+        "displayWidth": 402,
+        "displayHeight": 190
+      }
+    },
+    {
+      "index": 37,
+      "src": "assets/kamal image/57543527_10218984665637732_8654301888180649984_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 9,
+      "dimensions": {
+        "naturalWidth": 773,
+        "naturalHeight": 960,
+        "displayWidth": 402,
+        "displayHeight": 499
+      }
+    },
+    {
+      "index": 38,
+      "src": "assets/kamal image/67370837_2431646563563202_2543651225224609792_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 6,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 640,
+        "displayWidth": 402,
+        "displayHeight": 268
+      }
+    },
+    {
+      "index": 39,
+      "src": "assets/kamal image/70987054_2377000989216220_5918295587622486016_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 720,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 40,
+      "src": "assets/kamal image/537260143_10239734258484585_4519117677121509980_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 6,
+      "dimensions": {
+        "naturalWidth": 1079,
+        "naturalHeight": 589,
+        "displayWidth": 402,
+        "displayHeight": 219
+      }
+    },
+    {
+      "index": 41,
+      "src": "assets/kamal image/IMG-20250905-WA0008.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 9,
+      "dimensions": {
+        "naturalWidth": 640,
+        "naturalHeight": 820,
+        "displayWidth": 402,
+        "displayHeight": 515
+      }
+    },
+    {
+      "index": 42,
+      "src": "assets/kamal image/IMG-20250905-WA0009.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 5,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 720,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 43,
+      "src": "assets/kamal image/IMG-20250905-WA0010.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 666,
+        "displayWidth": 402,
+        "displayHeight": 279
+      }
+    },
+    {
+      "index": 44,
+      "src": "assets/kamal image/IMG-20250905-WA0011.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 6,
+      "dimensions": {
+        "naturalWidth": 1265,
+        "naturalHeight": 1600,
+        "displayWidth": 402,
+        "displayHeight": 508
+      }
+    },
+    {
+      "index": 45,
+      "src": "assets/kamal image/IMG-20250905-WA0012.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 3,
+      "dimensions": {
+        "naturalWidth": 1351,
+        "naturalHeight": 640,
+        "displayWidth": 402,
+        "displayHeight": 190
+      }
+    },
+    {
+      "index": 46,
+      "src": "assets/kamal image/IMG-20250905-WA0029.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 640,
+        "naturalHeight": 1280,
+        "displayWidth": 402,
+        "displayHeight": 803
+      }
+    },
+    {
+      "index": 47,
+      "src": "assets/kamal image/IMG-20250905-WA0030.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 4,
+      "dimensions": {
+        "naturalWidth": 480,
+        "naturalHeight": 480,
+        "displayWidth": 402,
+        "displayHeight": 402
+      }
+    },
+    {
+      "index": 48,
+      "src": "assets/kamal image/IMG-20250905-WA0015.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong",
+      "isLoaded": true,
+      "loadTime": 4,
+      "dimensions": {
+        "naturalWidth": 1920,
+        "naturalHeight": 1088,
+        "displayWidth": 402,
+        "displayHeight": 228
+      }
+    },
+    {
+      "index": 49,
+      "src": "assets/kamal image/69925895_10220174127453534_5242699113157361664_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 608,
+        "naturalHeight": 960,
+        "displayWidth": 402,
+        "displayHeight": 634
+      }
+    },
+    {
+      "index": 50,
+      "src": "assets/kamal image/71114892_2377002749216044_1656386650604830720_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 4,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 720,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 51,
+      "src": "assets/kamal image/77161558_10220900830860665_7494565065044000768_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 640,
+        "naturalHeight": 1351,
+        "displayWidth": 402,
+        "displayHeight": 848
+      }
+    },
+    {
+      "index": 52,
+      "src": "assets/kamal image/58594826_10219000397671023_6909089137731567616_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 3,
+      "dimensions": {
+        "naturalWidth": 684,
+        "naturalHeight": 911,
+        "displayWidth": 402,
+        "displayHeight": 535
+      }
+    },
+    {
+      "index": 53,
+      "src": "assets/kamal image/118582850_3284748854942252_7338281594386521340_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 520,
+        "naturalHeight": 360,
+        "displayWidth": 402,
+        "displayHeight": 278
+      }
+    },
+    {
+      "index": 54,
+      "src": "assets/kamal image/35292340_10216611234143428_4550064155536654336_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 640,
+        "naturalHeight": 1280,
+        "displayWidth": 402,
+        "displayHeight": 803
+      }
+    },
+    {
+      "index": 55,
+      "src": "assets/kamal image/78849335_10220901102867465_5155371355603992576_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 6,
+      "dimensions": {
+        "naturalWidth": 640,
+        "naturalHeight": 1351,
+        "displayWidth": 402,
+        "displayHeight": 848
+      }
+    },
+    {
+      "index": 56,
+      "src": "assets/kamal image/92952603_151880296320703_8506190924525600768_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 534,
+        "displayWidth": 402,
+        "displayHeight": 223
+      }
+    },
+    {
+      "index": 57,
+      "src": "assets/kamal image/45094356_10217732864623489_1324778689606451200_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 1351,
+        "naturalHeight": 640,
+        "displayWidth": 402,
+        "displayHeight": 190
+      }
+    },
+    {
+      "index": 58,
+      "src": "assets/kamal image/62166404_10219388329609079_1060361940016037888_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 5,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 720,
+        "displayWidth": 402,
+        "displayHeight": 301
+      }
+    },
+    {
+      "index": 59,
+      "src": "assets/kamal image/509611442_10238331146807670_3707442104022653427_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 6,
+      "dimensions": {
+        "naturalWidth": 571,
+        "naturalHeight": 873,
+        "displayWidth": 402,
+        "displayHeight": 614
+      }
+    },
+    {
+      "index": 60,
+      "src": "assets/kamal image/158833074_276576550517743_5053216964898858905_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 8,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 502,
+        "displayWidth": 402,
+        "displayHeight": 210
+      }
+    },
+    {
+      "index": 61,
+      "src": "assets/kamal image/517991356_10239059413253876_5823188848638020933_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 3,
+      "dimensions": {
+        "naturalWidth": 720,
+        "naturalHeight": 480,
+        "displayWidth": 402,
+        "displayHeight": 268
+      }
+    },
+    {
+      "index": 62,
+      "src": "assets/kamal image/518375289_10239059415773939_5379502688260411239_n.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 4,
+      "dimensions": {
+        "naturalWidth": 720,
+        "naturalHeight": 480,
+        "displayWidth": 402,
+        "displayHeight": 268
+      }
+    },
+    {
+      "index": 63,
+      "src": "assets/kamal image/IMG-20250905-WA0031.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 6,
+      "dimensions": {
+        "naturalWidth": 1351,
+        "naturalHeight": 640,
+        "displayWidth": 402,
+        "displayHeight": 190
+      }
+    },
+    {
+      "index": 64,
+      "src": "assets/kamal image/IMG-20250905-WA0017.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 4,
+      "dimensions": {
+        "naturalWidth": 1152,
+        "naturalHeight": 544,
+        "displayWidth": 402,
+        "displayHeight": 190
+      }
+    },
+    {
+      "index": 65,
+      "src": "assets/kamal image/IMG-20250905-WA0018.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 5,
+      "dimensions": {
+        "naturalWidth": 960,
+        "naturalHeight": 1280,
+        "displayWidth": 402,
+        "displayHeight": 535
+      }
+    },
+    {
+      "index": 66,
+      "src": "assets/kamal image/IMG-20250905-WA0019.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 4,
+      "dimensions": {
+        "naturalWidth": 642,
+        "naturalHeight": 810,
+        "displayWidth": 402,
+        "displayHeight": 507
+      }
+    },
+    {
+      "index": 67,
+      "src": "assets/kamal image/IMG-20250905-WA0032.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 6,
+      "dimensions": {
+        "naturalWidth": 720,
+        "naturalHeight": 960,
+        "displayWidth": 402,
+        "displayHeight": 535
+      }
+    },
+    {
+      "index": 68,
+      "src": "assets/kamal image/IMG-20250905-WA0021.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong mb-4",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 691,
+        "naturalHeight": 1078,
+        "displayWidth": 402,
+        "displayHeight": 626
+      }
+    },
+    {
+      "index": 69,
+      "src": "assets/kamal image/IMG-20250905-WA0023.jpg",
+      "alt": "Kamal Katwal - Professional Photo",
+      "classes": "w-100 shadow-1-strong",
+      "isLoaded": true,
+      "loadTime": 7,
+      "dimensions": {
+        "naturalWidth": 1029,
+        "naturalHeight": 1030,
+        "displayWidth": 402,
+        "displayHeight": 402
+      }
+    }
+  ],
+  "popupTest": false,
+  "responsiveTest": true,
+  "loadTimes": {
+    "pageLoad": 1212,
+    "averageImageLoad": 7.318840579710145
+  },
+  "errors": []
+}

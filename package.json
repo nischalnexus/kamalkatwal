@@ -1,0 +1,15 @@
+{
+  "name": "kamal-katwal-gallery-tests",
+  "version": "1.0.0",
+  "description": "Playwright tests for Kamal Katwal's gallery website",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
